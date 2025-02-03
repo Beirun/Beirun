@@ -14,11 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=500)
 <br>
 
-<p align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beirun&theme=blue-green&hide_border=true&card_width=300&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=beirun&icon=0&color=0)](https://visitcount.itsvg.in)
 
