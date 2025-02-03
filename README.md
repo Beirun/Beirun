@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=555&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beirun&theme=blue-green&hide_border=true&card_width=555&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beirun&theme=blue-green&hide_border=true&card_width=300&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=555)
 
 ---
