@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&pause=1000&color=429EF7&width=435&lines=ASPIRING+FULL-STACK+DEVELOPER" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&pause=1000&color=429EF7&width=435&lines=FULL-STACK+DEVELOPER" alt="Typing SVG" /></a>
 </p>
 
 # 💻 Tech Stack
