@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Beirun.Beirun">
 
-<br><br><br><p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&duration=1&pause=1000&color=429EF7&width=335&lines=Bernard+Jay+Orillo" alt="Typing SVG" /></a>
+<br><br><p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&duration=1&pause=1000&color=184A90&width=335&lines=Bernard+Jay+Orillo" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
