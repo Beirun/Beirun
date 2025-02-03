@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&duration=1&pause=1000&color=429EF7&width=335&lines=Bernard+Jay+Orillo" alt="Typing SVG" /></a>
 </p>
 
+<hr>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=184A90&width=555&height=69&lines=Aspiring+Full-Stack+Developer" alt="Typing SVG" /></a></p>
 <br><br><br><br><br>
