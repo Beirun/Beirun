@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=2000&pause=2000&color=0cf574&width=400&height=69&lines=Good+To+See+You!" alt="Typing SVG" /></a></p>
 <br><br><br><br><br>
 
-##
 # 💻 Favorite Language & Tools
 <br>
 <p align="center">
@@ -31,7 +30,6 @@
 
 <br>
 
-##
 # 📊 GitHub Stats
 
 
