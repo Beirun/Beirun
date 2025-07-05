@@ -1,36 +1,41 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Beirun.Beirun">
 <br>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=work+sans&weight=700&size=32&duration=1&pause=1000&color=184A90&width=335&lines=Bernard+Jay+Orillo" alt="Typing SVG" /></a>
-</p>
+
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=300&color=184A90&width=405&height=69&lines=Full-Stack+Developer" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=100&color=0cf574&width=405&height=69&lines=Good+To+See+You!" alt="Typing SVG" /></a></p>
 <br><br><br><br><br>
 
-# 💻 Favorite Stack
+# 💻 Favorite Language & Tools
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue" width="100"/>
+<img src="https://github.com/Beirun/Beirun/blob/main/vue.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="100"/>
-  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Beirun/Beirun/blob/main/node.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Beirun/Beirun/blob/main/supabase.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Beirun/Beirun/blob/main/typescript.png" width="200"/>
 
 </p>
 
 <br><br><br>
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400)
+
+<p align="center>
+  
+  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400"/>
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false"/>
+
+</p>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400) -->
 <br>
 
   
