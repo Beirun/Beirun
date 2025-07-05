@@ -11,15 +11,19 @@
 # 💻 Favorite Stack
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue" width="150"/>
+<img src="https://skillicons.dev/icons?i=vue" width="100"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="100"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" width="100"/>
 
 </p>
 
