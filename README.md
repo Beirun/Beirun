@@ -21,14 +21,18 @@
 <img src="https://github.com/Beirun/Beirun/blob/main/typescript.png" width="175"/>
 
 </p>
+<br>
+<br>
+<p>I fell in love with Vue because it's clean, simple, and just makes sense. After migrating from React, I could never go back unless I had to. Honestly, once you go Vue, you never React the same way again.</p>
 
-<br><br><br>
+<br><br>
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400)
-<br>
 
+<p align="center">
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" />
+<img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400" />
+</p>
   
 <p align="center">
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beirun&theme=blue-green&hide_border=true&card_width=350&include_all_commits=false&count_private=false&layout=compact" />
