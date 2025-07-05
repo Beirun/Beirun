@@ -12,13 +12,10 @@
 <img src="https://github.com/Beirun/Beirun/blob/main/vue.png" width="175"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Beirun/Beirun/blob/main/node.png" width="175"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Beirun/Beirun/blob/main/supabase.png" width="175"/>
-  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Beirun/Beirun/blob/main/typescript.png" width="175"/>
