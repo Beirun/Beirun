@@ -6,6 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=100&color=0cf574&width=405&height=69&lines=Good+To+See+You!" alt="Typing SVG" /></a></p>
 <br><br><br><br><br>
 
+##
 # 💻 Favorite Language & Tools
 <br>
 <p align="center">
@@ -25,7 +26,12 @@
 <br>
 <p>I fell in love with Vue because it's clean, simple, and just makes sense. After migrating from React, I could never go back unless I had to. Honestly, once you go Vue, you never React the same way again.</p>
 
-<br><br>
+<br>
+
+
+<br>
+
+##
 # 📊 GitHub Stats
 
 
