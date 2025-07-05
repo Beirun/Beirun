@@ -25,14 +25,8 @@
 <br><br><br>
 # 📊 GitHub Stats
 
-<p align="center>
-  
-  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400"/>
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false"/>
-
-</p>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400) -->
+![](https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400)
 <br>
 
   
