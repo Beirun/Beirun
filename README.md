@@ -18,14 +18,22 @@
 <img src="https://github.com/Beirun/Beirun/blob/main/supabase.png" width="175"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Beirun/Beirun/blob/main/typescript.png" width="175"/>
+<img src="https://github.com/Beirun/Beirun/blob/main/typescript.png" width="175"/>  
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/Beirun/Beirun/blob/main/csharp.png" width="175"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Beirun/Beirun/blob/main/java.png" width="175"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Beirun/Beirun/blob/main/python.png" width="175"/>
 
 </p>
 <br>
-<br>
-<p>I fell in love with Vue because it's clean, simple, and just makes sense. After migrating from React, I could never go back unless I had to. Honestly, once you go Vue, you never React the same way again.</p>
+<!-- <p>I fell in love with Vue because it's clean, simple, and just makes sense. After migrating from React, I could never go back unless I had to. Honestly, once you go Vue, you never React the same way again.</p> -->
 
-<br>
 
 
 <br>
