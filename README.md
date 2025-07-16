@@ -43,7 +43,7 @@
 
 <p align="center">
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=beirun&card_width=400&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=beirun&theme=blue-green&hide_border=true&card_width=400" />
+<img align="center" height="200" src="https://nirzak-streak-stats.vercel.app/?user=beirun&theme=blue-green&hide_border=true&card_width=400" />
 </p>
   
 <p align="center">
